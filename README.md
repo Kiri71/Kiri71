@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Kiri71
 - 👀 I’m interested in Work in Sector Thecnology 
 - 🌱 I’m currently learning Python Languange
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me https://www.instagram.com/binx_07/
 - ⚡ Fun fact: im 18 ( nobody care ) :(
 
 <!---
